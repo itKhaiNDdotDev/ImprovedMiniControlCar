@@ -1,0 +1,9 @@
+*) Cách import file .aia
+Bước 1: Truy cập vào đường dẫn http://ai2.appinventor.mit.edu/ và đăng nhập bằng gmail
+Bước 2: Chọn Project -> Import project (.aia) from my computer...
+Bước 3: Chọn XeDieuKhien.aia
+Sau khi import file .aia ta có thể chỉnh sửa app và có thể build ra file .apk cũng như export file .aia
+
+*) Cách cài đặt app thông qua file .apk
+Bước 1: Download file .apk
+Bước 2: Cài đặt file .apk
