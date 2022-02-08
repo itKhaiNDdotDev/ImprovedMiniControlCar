@@ -1,0 +1,14 @@
+Để nạp code firmware này cho thiết bị có thể hoạt động.
+Cần chuẩn bị, lắp ráp và nối mạch phù hợp cho các linh kiện:
+1 x Bánh Xe Dẫn Động V1
+2 x Bánh xe robot là phần bánh sẽ ghép với động cơ
+2 x Động cơ giảm tốc DC
+1 x Board Arduino Uno R3
+1 x Board mở rộng Driver Motor Shield L293D
+1 x Module thu phát Bluetooth HC05
+Bộ nguồn điện, công tắc và lắp đặt xe sao cho phù hợp nhất
+Tham khảo mã nguồn Arduino IDE trên
+Cài đặt và include thư viện AFMotor.h (“Adafruit Motor Shield library)
+Tiến hành nạp code và chạy thử nghiệm
+# Lưu ý: Khi tiến hành kết nối với điện thoại Android,
+     Mật khẩu mặc định của module bluetooth HC05 là: 1234
